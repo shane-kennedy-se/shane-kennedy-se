@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | Full-Stack | Robotics & Edge AI</h3>
 
 <p align="center">
-  I am a Software Engineering graduate. I am passionate about engineering end-to-end solutions—from building scalable applications.
+  I am a Software Engineering graduate passionate about engineering end-to-end solutions—from building scalable web applications to deploying AI models on edge devices.
 </p>
 
----
+<br/>
 
 ### 🛠️ Tech Stack
 ---
@@ -20,6 +20,7 @@
 ---
 
 * 🤖 **Smart Packaging Robot** → Humanoid robotic system utilizing **YOLOv8 + Raspberry Pi**
+* 🎓 **GradReady** → Interview preparation mobile app built with **Flutter + Gemini API**
 * 📡 **ServerPulse** → Real-time server monitoring & alerting system built with **Laravel**
 
 <br/>
@@ -37,17 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shane-kennedy-se&show_icons=true&theme=radical&hide_border=true" alt="Shane's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane-kennedy-se&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
-<br/>
-
-### 🐍 Contribution Graph
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shane-kennedy-se/shane-kennedy-se/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shane-kennedy-se/shane-kennedy-se/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shane-kennedy-se/shane-kennedy-se/output/github-snake.svg">
-</picture>
 
 <br/>
 
