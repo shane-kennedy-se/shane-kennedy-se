@@ -10,8 +10,34 @@
 ### 🛠️ Tech Stack
 ---
 
+**Languages**
+<br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,cpp,html,css,laravel,tailwind,flutter,arduino,raspberrypi,linux,git&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</a>
+
+<br/>
+
+**Frameworks & Libraries**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,flutter,bootstrap" />
+</a>
+
+<br/>
+
+**Databases**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</a>
+
+<br/>
+
+**Robotics, Infrastructure & Tools**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,docker" />
 </a>
 
 <br/>
@@ -22,22 +48,6 @@
 * 🤖 **Smart Packaging Robot** → Humanoid robotic system utilizing **YOLOv8 + Raspberry Pi**
 * 🎓 **GradReady** → Interview preparation mobile app built with **Flutter + Gemini API**
 * 📡 **ServerPulse** → Real-time server monitoring & alerting system built with **Laravel**
-
-<br/>
-
-### 🏆 GitHub Achievements & Stats
----
-
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shane-kennedy-se&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-<br/>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shane-kennedy-se&show_icons=true&theme=radical&hide_border=true" alt="Shane's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane-kennedy-se&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 
