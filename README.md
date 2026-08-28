@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack | Robotics & Edge AI</h3>
 
 <p align="center">
-  I am a Software Engineering graduate passionate about engineering end-to-end solutions—from building scalable web applications to deploying AI models on edge devices.
+  I am a Software Engineering graduate passionate about engineering end-to-end solutions, from building scalable web applications to deploying AI models on edge devices.
 </p>
 
 <br/>
@@ -10,35 +10,10 @@
 ### 🛠️ Tech Stack
 ---
 
-**Languages**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
-</a>
-
-<br/>
-
-**Frameworks & Libraries**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,flutter,bootstrap" />
-</a>
-
-<br/>
-
-**Databases**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</a>
-
-<br/>
-
-**Robotics, Infrastructure & Tools**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,docker" />
-</a>
+* **Languages:** <img align="center" src="https://skillicons.dev/icons?i=python" width="20"/> Python &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=java" width="20"/> Java &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript
+* **Frameworks & Libraries:** <img align="center" src="https://skillicons.dev/icons?i=laravel" width="20"/> Laravel &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=tailwind" width="20"/> Tailwind &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=flutter" width="20"/> Flutter &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=bootstrap" width="20"/> Bootstrap
+* **Databases:** <img align="center" src="https://skillicons.dev/icons?i=mysql" width="20"/> MySQL &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=mongodb" width="20"/> MongoDB
+* **Robotics & Tools:** <img align="center" src="https://skillicons.dev/icons?i=arduino" width="20"/> Arduino &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=raspberrypi" width="20"/> Raspberry Pi &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=linux" width="20"/> Linux &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=git" width="20"/> Git &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=docker" width="20"/> Docker
 
 <br/>
 
