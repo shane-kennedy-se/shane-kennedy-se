@@ -10,11 +10,36 @@
 ### 🛠️ Tech Stack
 ---
 
-* **Languages:** <img align="center" src="https://skillicons.dev/icons?i=python" width="20"/> Python &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=java" width="20"/> Java &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript
-* **Frameworks & Libraries:** <img align="center" src="https://skillicons.dev/icons?i=laravel" width="20"/> Laravel &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=tailwind" width="20"/> Tailwind &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=flutter" width="20"/> Flutter &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=bootstrap" width="20"/> Bootstrap
-* **Databases:** <img align="center" src="https://skillicons.dev/icons?i=mysql" width="20"/> MySQL &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=mongodb" width="20"/> MongoDB
-* **Robotics & Tools:** <img align="center" src="https://skillicons.dev/icons?i=arduino" width="20"/> Arduino &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=raspberrypi" width="20"/> Raspberry Pi &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=linux" width="20"/> Linux &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=git" width="20"/> Git &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=docker" width="20"/> Docker
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<br/>
+
+**Frameworks & Libraries**
+<br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br/>
+
+**Databases**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
+
+**Robotics, Infrastructure & Tools**
+<br/>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
 ### ✨ Highlight Projects
