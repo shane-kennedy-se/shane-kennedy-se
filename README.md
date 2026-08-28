@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack | Robotics & Edge AI</h3>
 
 <p align="center">
-  I am a Software Engineering graduate passionate about building stuff!.
+  I am a Software Engineering graduate passionate about building stuff!
 </p>
 
 <br/>
